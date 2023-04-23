@@ -4,7 +4,9 @@
 
 This chapter will focus on JavaScript number operations, number representation, Number objects, common number algorithms, and random number generation.
 
-By the end of this chapter, you will understand how to work with numbers in JavaScript as well as how to implement prime factorization, which is fundamental for encryption.
+By the end of this chapter, you will understand how to work with numbers in JavaScript as well as how to impl
+
+ement prime factorization, which is fundamental for encryption.
 
 Number operations of a programming language allow you to compute numerical values. Here are the number operators in JavaScript:
 
